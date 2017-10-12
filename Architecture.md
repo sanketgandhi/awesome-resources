@@ -1,4 +1,6 @@
 # Architecture
+
+## Serivce Oriented Architecture (SOA)
 - [SOA with Node.js Middle Layer](https://gist.github.com/ChiperSoft/6903159)
 - [maxogden/art-of-node: a short introduction to node.js](https://github.com/maxogden/art-of-node)
 - [Netflix Conductor: A microservices orchestrator – Netflix TechBlog – Medium](https://medium.com/netflix-techblog/netflix-conductor-a-microservices-orchestrator-2e8d4771bf40)
