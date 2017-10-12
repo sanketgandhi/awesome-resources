@@ -1,6 +1,7 @@
 # awesome-resources
  A list of the links that are awesome and useful :sparkles:
 
+This is awesome!!!
 
 ## Contents
 - [Architecture](https://github.com/sanketgandhi/awesome-resources/blob/master/Architecture.md)
