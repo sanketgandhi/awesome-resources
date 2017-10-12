@@ -22,5 +22,5 @@
 - [Databases](https://github.com/sanketgandhi/awesome-resources/blob/master/Database.md)
 - [Security](https://github.com/sanketgandhi/awesome-resources/blob/master/Security.md)
 - [Networking](https://github.com/sanketgandhi/awesome-resources/blob/master/Networking.md)
-- [Miscellaneous](#https://github.com/sanketgandhi/awesome-resources/blob/master/Misc.md)
+- [Miscellaneous](https://github.com/sanketgandhi/awesome-resources/blob/master/Misc.md)
 
