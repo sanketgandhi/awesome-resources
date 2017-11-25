@@ -20,6 +20,7 @@ This is awesome!!!
   * [Performance](https://github.com/sanketgandhi/awesome-resources/blob/master/MySQLPerf.md)
 * [Encryption](https://github.com/sanketgandhi/awesome-resources/blob/master/Encryption.md)
 * [AWS](https://github.com/sanketgandhi/awesome-resources/blob/master/AWS.md)
+* [Linux](https://github.com/sanketgandhi/awesome-resources/blob/master/Linux.md)
 * [Tools](https://github.com/sanketgandhi/awesome-resources/blob/master/Tools.md)
 * [Books](https://github.com/sanketgandhi/awesome-resources/blob/master/Books.md)
 * [Editors](https://github.com/sanketgandhi/awesome-resources/blob/master/Editors.md)
