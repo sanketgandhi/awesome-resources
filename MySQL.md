@@ -13,3 +13,4 @@
 * [7 ways to convince MySQL to use the right index](http://code.openark.org/blog/mysql/7-ways-to-convince-mysql-to-use-the-right-index)
 * [How to Setup Elasticsearch With MySQL](https://cloudways.com/blog/setup-elasticsearch-with-mysql)
 * [Location for InnoDB tablespace in MySQL 5.6.6](https://percona.com/blog/2014/05/28/location-for-innodb-tablespace-in-mysql-5-6-6)
+* [Execution of Order by in MySQL](http://s.petrunia.net/blog/?p=24)
