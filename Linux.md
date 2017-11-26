@@ -12,3 +12,4 @@
 * [How to Run Your Own Git Server](https://linux.com/learn/how-run-your-own-git-server)
 * [How I Set Up My Development Machine](https://sitepoint.com/set-up-development-machine)
 * [Unix and Linux Commands](https://www.computerhope.com/unix.htm#05)
+* [File permission in Linux](https://www.howtogeek.com/67987/htg-explains-how-do-linux-file-permissions-work/)
