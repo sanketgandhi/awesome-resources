@@ -53,3 +53,4 @@
 * [All you need to know to really understand the Node.js Event Loop and its Metrics](https://dynatrace.com/blog/all-you-need-to-know-to-really-understand-the-node-js-event-loop-and-its-metrics)
 * [Tutorial: Creating and managing a Node.js server on AWS, part 2](https://hackernoon.com/tutorial-creating-and-managing-a-node-js-server-on-aws-part-2-5fbdea95f8a1)
 * [Learn and Understand NodeJS](https://udemy.com/understand-nodejs/learn/v4/t/lecture/3453122)
+* [NodeJs and Socket.io Useful resource](https://openclassrooms.com/courses/ultra-fast-applications-using-node-js/socket-io-let-s-go-to-real-time)
