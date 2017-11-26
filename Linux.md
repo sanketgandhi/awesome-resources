@@ -11,3 +11,4 @@
 * [Cloud computing designed for developersSpacesDigitalOcean LogoDigitalOcean LogoClose AlertSlider direction: leftSlider direction: rightTwitterFacebookLinkedInGithubGoogle PlusInstagramYouTube](https://digitalocean.com/community/tutorials/how-to-install-linux-nginx-mysql-php-lemp-stack-in-ubuntu-16-04)
 * [How to Run Your Own Git Server](https://linux.com/learn/how-run-your-own-git-server)
 * [How I Set Up My Development Machine](https://sitepoint.com/set-up-development-machine)
+* [Unix and Linux Commands](https://www.computerhope.com/unix.htm#05)
