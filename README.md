@@ -2,7 +2,7 @@
 
 A list of the links that are awesome and useful :sparkles:
 
-This is awesome!!!
+
 
 ## Contents
 
