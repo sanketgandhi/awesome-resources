@@ -30,3 +30,4 @@ A list of the links that are awesome and useful :sparkles:
 * [Security](https://github.com/sanketgandhi/awesome-resources/blob/master/Security.md)
 * [Networking](https://github.com/sanketgandhi/awesome-resources/blob/master/Networking.md)
 * [Miscellaneous](https://github.com/sanketgandhi/awesome-resources/blob/master/Misc.md)
+* [Design Pattern](https://github.com/kamranahmedse/design-patterns-for-humans)
